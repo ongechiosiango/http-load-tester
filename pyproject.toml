@@ -9,7 +9,7 @@ description = "A blazing-fast asynchronous HTTP load testing tool."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "ongechiosiang" }]
+authors = [{ name = "ongechiosiango" }]
 keywords = ["http", "load-testing", "benchmarking", "asyncio", "performance"]
 classifiers = [
     "Programming Language :: Python :: 3",

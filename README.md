@@ -14,7 +14,7 @@ A blazing-fast, asynchronous HTTP load testing tool written in pure Python.
 
 From source:
 
-    git clone git@github.com:ongechiosiang/http-load-tester.git
+    git clone git@github.com:ongechiosiango/http-load-tester.git
     cd http-load-tester
     python3 -m venv venv
     source venv/bin/activate
